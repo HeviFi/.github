@@ -4,4 +4,4 @@
 
 HeviFi is an application, that provides services related to renting heavy vehicles and managing with ease and social, compatible with Android, iOS, and Windows Desktop platforms.
 
-Website: www.hevifi.com
+Website: www.hevifi.com | Email: support@hevifi.com | LinkedIn: [@hevify](https://www.linkedin.com/company/hevifi)
